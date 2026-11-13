@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "RZRCSMP.aternos.me:12252",
+    "port": 12252,
+    "version": "1.20",
     "try-creative": false
   },
   "position": {
